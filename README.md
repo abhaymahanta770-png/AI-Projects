@@ -1,2 +1,2 @@
-# AI-Projects
-A collection of my AI/ML, Python, Django, Deep Learning, and Data Science projects, showcasing practical applications, machine learning models, web applications, data analysis, and AI-powered solutions developed during my learning journey.
+# ML-Projects
+A collection of project using Python, Pandas, NumPy, Seaborn, Matplotlib, and Scikit-learn. The project performs exploratory data analysis and visualization on the diabetes dataset, followed by preprocessing and machine learning using Logistic Regression, KNN, SVM, and Gaussian Naive Bayes. Models are evaluated using accuracy, precision, recall, F1-score, and confusion matrices., showcasing practical applications, machine learning models, web applications, data analysis, and AI-powered solutions developed during my learning journey.
